@@ -1,8 +1,6 @@
 import cv2
-import cvzone
 import numpy as np
 import pickle
-import os
 
 def empty(val):
     pass
